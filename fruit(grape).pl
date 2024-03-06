@@ -1,0 +1,2 @@
+fruit(grape).
+veg(carrot).
